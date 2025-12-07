@@ -21,8 +21,6 @@ The final internship report is included in this repository.
 
 ---
 
----
-
 ## 🛠️ Tools & Technologies
 
 - **NI Multisim**
