@@ -23,7 +23,7 @@ The final internship report is included in this repository.
 
 ## 🛠️ Tools & Technologies
 
-- **NI Multisim**
+- **NI-circuit-design-suite**
 - **SPICE Simulation**
 - **Electronics Circuit Design**
 - **AC/DC/Transient Analysis**
